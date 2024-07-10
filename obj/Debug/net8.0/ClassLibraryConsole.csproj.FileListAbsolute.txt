@@ -1,0 +1,11 @@
+D:\@Dev\Exercicios\ClassLibraryConsole\bin\Debug\net8.0\ClassLibraryConsole.deps.json
+D:\@Dev\Exercicios\ClassLibraryConsole\bin\Debug\net8.0\ClassLibraryConsole.dll
+D:\@Dev\Exercicios\ClassLibraryConsole\bin\Debug\net8.0\ClassLibraryConsole.pdb
+D:\@Dev\Exercicios\ClassLibraryConsole\obj\Debug\net8.0\ClassLibraryConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\@Dev\Exercicios\ClassLibraryConsole\obj\Debug\net8.0\ClassLibraryConsole.AssemblyInfoInputs.cache
+D:\@Dev\Exercicios\ClassLibraryConsole\obj\Debug\net8.0\ClassLibraryConsole.AssemblyInfo.cs
+D:\@Dev\Exercicios\ClassLibraryConsole\obj\Debug\net8.0\ClassLibraryConsole.csproj.CoreCompileInputs.cache
+D:\@Dev\Exercicios\ClassLibraryConsole\obj\Debug\net8.0\ClassLibraryConsole.dll
+D:\@Dev\Exercicios\ClassLibraryConsole\obj\Debug\net8.0\refint\ClassLibraryConsole.dll
+D:\@Dev\Exercicios\ClassLibraryConsole\obj\Debug\net8.0\ClassLibraryConsole.pdb
+D:\@Dev\Exercicios\ClassLibraryConsole\obj\Debug\net8.0\ref\ClassLibraryConsole.dll
